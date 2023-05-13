@@ -1,0 +1,14 @@
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\bin\Debug\Server.exe.config
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\bin\Debug\Server.exe
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\bin\Debug\Server.pdb
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\obj\Debug\Server.exe
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New\Server\obj\Debug\Server.pdb
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\bin\Debug\Server.exe.config
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\bin\Debug\Server.exe
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\bin\Debug\Server.pdb
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\obj\Debug\Server.exe
+C:\Users\ashwi\OneDrive\Desktop\Sixth Semester\PRG650\New2\Server\obj\Debug\Server.pdb

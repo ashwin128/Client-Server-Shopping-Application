@@ -1,0 +1,2 @@
+The Solution can be found inside the Server folder
+Shopping Server Client Application.sln
